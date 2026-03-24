@@ -163,6 +163,15 @@ Flutter Developer | Aspiring AI Engineer
 
 GitHub: https://github.com/Jigyasa-Awasthi30
 
+## Recruiter Note
+
+This project was developed to demonstrate Flutter development skills, focusing on UI design, state management, and structured application flow.
+
+It simulates a real-world calling experience using Provider for state management, with clear handling of different call states (idle, calling, ringing, active, ended). The emphasis is on clean architecture, maintainable code, and a smooth user experience.
+
+Thank you for reviewing this project.
+
+
 ---
 
 ## License
